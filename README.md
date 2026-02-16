@@ -28,7 +28,10 @@ This project demonstrates hands-on experience in ServiceNow platform customizati
 Project screenshots are available in the `screenshots` folder.
 
 ## Demo Video
-Demo video is available in the `demo-video` folder.
+## Demo Video
+
+[▶ Click here to watch the project demo](https://youtu.be/_DS3ViMy1-8)
+
 
 ##  Update Set
 The complete Update Set XML file is included for replication of the project in another ServiceNow instance.
